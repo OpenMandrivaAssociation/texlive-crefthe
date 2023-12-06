@@ -1,6 +1,6 @@
 Name:		texlive-crefthe
-Version:	64498
-Release:	2
+Version:	68813
+Release:	1
 Summary:	Cross referencing with proper definite articles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/crefthe
