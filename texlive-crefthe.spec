@@ -3,7 +3,7 @@ Version:	70165
 Release:	1
 Summary:	Cross referencing with proper definite articles
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/crefthe
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/crefthe
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/crefthe.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/crefthe.doc.r%{version}.tar.xz
